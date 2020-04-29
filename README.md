@@ -1,0 +1,2 @@
+# Language-Machine-Translation
+The objective is to convert a Engish sentence to its Hindi counterpart using a Neural Machine Translation (NMT) system. The goal is to build a model with the help of neural networks, using python (precisely Tensorflow, keras), which translates the text into desired language. But, for this model to build, we need good size of the pre-translated data and then data should be prepared for the further process of building the model.
